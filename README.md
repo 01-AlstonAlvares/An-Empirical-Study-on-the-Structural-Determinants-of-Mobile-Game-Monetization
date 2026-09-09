@@ -220,7 +220,7 @@ We conducted a statutory proxy audit to examine whether mechanical attributes pr
 ### Setup Instructions
 ```bash
 # 1. Clone repository
-git clone https://github.com/01-AlstonAlvares/An-Empirical-Study-on-the-Structural-Determinants-of-Mobile-Game-Monetization..git
+gh repo clone 01-AlstonAlvares/An-Empirical-Study-on-the-Structural-Determinants-of-Mobile-Game-Monetization.
 
 # 2. Create and activate virtual environment
 python -m venv .venv
