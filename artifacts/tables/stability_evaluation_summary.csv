@@ -1,0 +1,5 @@
+Stability Protocol,Metric,Empirical Mean,Std Dev,Stability Classification
+Test A: Explainer Seed Variation (KernelSHAP),Pairwise Spearman Rank Correlation,0.3529,0.1569,Moderate / Unstable (Monte Carlo Sampling Noise)
+Test A: Explainer Seed Variation (KernelSHAP),Top-5 Jaccard Similarity Index,0.3512,0.1739,Low Overlap (Top features fluctuate across seeds)
+Test B: Input Epsilon Perturbation (TreeSHAP),Max Model Probability Shift (Delta p),0.005424,N/A (Strict Upper Bound < 0.01),Highly Controlled Micro-Perturbation
+Test B: Input Epsilon Perturbation (TreeSHAP),Top-3 Feature Flip Percentage,4.0%,2 / 50 instances,Extremely Robust (98% stability under perturbation)

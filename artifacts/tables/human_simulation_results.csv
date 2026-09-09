@@ -1,0 +1,3 @@
+Cohort Group,Instances Evaluated,Sample Size (N),Total Trials,Correct Human Predictions,Prediction Accuracy,Mean Confidence (1-5),Primary Failure Mode
+Control Group (Mechanics Alone),5 Cards (CARD-C1 to CARD-C5),10,50,31,62.0%,2.8 / 5.0,Human evaluators routinely misclassified high-size single-player games as Aggressive IAP
+Treatment Group (Mechanics + SHAP),5 Cards (CARD-T1 to CARD-T5),10,50,44,88.0%,4.2 / 5.0,Marginal boundary case (p=0.52) where small positive genre weight counterbalanced size
