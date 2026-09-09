@@ -1,0 +1,7 @@
+Feature,Class,Mean,Std,Skewness,Median (Q2),IQR (Q3-Q1),95th Pct
+size_in_mb,Ad-Supported (Y=0),71.89,108.35,5.9,36.94,68.84,235.56
+size_in_mb,Aggressive IAP (Y=1),228.77,291.76,4.47,153.08,173.18,668.12
+days_since_last_update,Ad-Supported (Y=0),941.34,681.64,0.86,850.0,977.5,2154.0
+days_since_last_update,Aggressive IAP (Y=1),597.68,641.62,1.24,333.0,904.0,1962.0
+supported_languages_count,Ad-Supported (Y=0),2.84,5.81,4.04,1.0,0.0,16.0
+supported_languages_count,Aggressive IAP (Y=1),5.77,8.53,3.28,1.0,7.0,22.0

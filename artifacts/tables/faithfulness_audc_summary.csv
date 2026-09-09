@@ -1,0 +1,4 @@
+Deletion Strategy,AUDC Score,Initial AUC Drop (k=1),Cliff Drop (k=5),Faithfulness Interpretation
+TreeSHAP-Guided (Top Features),0.5498,0.0872,0.2191,Highest Faithfulness: Rapid drop proves model heavily depends on top-ranked features
+Random Deletion Control (20 Seeds),0.7524,0.0000,0.0066,Expected Baseline: Gradual linear decay proportional to random information loss
+Inverse Deletion Control (Bottom Features),0.8319,0.0000,0.0000,Control Upper Bound: Performance preserved because uninformative tail is masked first
