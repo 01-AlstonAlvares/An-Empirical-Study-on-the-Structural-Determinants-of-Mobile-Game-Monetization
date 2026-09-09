@@ -1,6 +1,0 @@
-Stage,Record Count,Percentage,Description
-Raw Store Ingestion,17007,100.0%,Full Kaggle App Store scraped catalogue
-Ambiguous / Hybrid Filtered,4071,23.9%,Games with $4.99 <= Max IAP < $19.99 or paid upfront non-ad games
-Final Analyzed Cohort,12936,76.1%,Strictly separated monetization archetypes
-  -> Class 0 (Ad-Supported),10610,82.0%,Freemium games with Max IAP < $4.99 and active ad support
-  -> Class 1 (Aggressive IAP),2326,18.0%,Microtransaction titles with single purchase tiers >= $19.99

@@ -1,6 +1,0 @@
-game_id,orig_prob,cf_prob,prob_delta,orig_size_mb,cf_size_mb,size_delta_mb,orig_sync_multiplayer,cf_sync_multiplayer,orig_pacing,cf_pacing
-GAME-PITCH-1 (Role Playing),0.993,0.37,-0.623,369.44,369.4,-0.0,1,0,Real-Time,Real-Time
-GAME-PITCH-2 (Simulation),0.993,0.35,-0.643,153.44,153.4,-0.0,0,0,Hypercasual/Idle,Session-Based
-GAME-PITCH-3 (Social Networking),0.989,0.426,-0.563,377.55,20.9,-356.7,1,0,Hypercasual/Idle,Real-Time
-GAME-PITCH-4 (Strategy),0.989,0.449,-0.54,267.81,267.8,-0.0,1,1,Real-Time,Real-Time
-GAME-PITCH-5 (Entertainment),0.988,0.282,-0.706,240.34,240.3,-0.0,1,0,Real-Time,Real-Time
