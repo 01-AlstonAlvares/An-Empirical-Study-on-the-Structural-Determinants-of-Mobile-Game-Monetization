@@ -45,10 +45,12 @@ During pre-production, mobile game studio leadership faces a critical technical 
 The empirical analysis is conducted on store metadata spanning over 17,000 mobile titles under permissive open-access licenses.
 
 > **Kaggle Dataset Download Links:**
-> * **Primary 17K Mobile App Store Dataset:**  
->   `[INSERT YOUR KAGGLE DATASET 1 URL HERE]` (e.g., `https://www.kaggle.com/datasets/...`)
-> * **Secondary Benchmark / Google Play Dataset:**  
->   `[INSERT YOUR KAGGLE DATASET 2 URL HERE]` (e.g., `https://www.kaggle.com/datasets/...`)
+> * **Google Play Store Apps: Data of 10k Play Store apps for analysing the Android market.**  
+>   `https://www.kaggle.com/datasets/lava18/google-play-store-apps` 
+> * **17K Mobile App Store Dataset:Every strategy game on the Apple App Store**  
+>   `https://www.kaggle.com/datasets/tristan581/17k-apple-app-store-strategy-games` 
+> * **Google Play Store Apps:Google Play Store App data of 2.3 Million+ applications.**  
+>   `https://www.kaggle.com/datasets/gauthamp10/google-playstore-apps`
 
 ### Data Ingestion Setup
 1. Download raw store metadata CSV files from the Kaggle links above.
