@@ -240,7 +240,7 @@ pytest tests/test_pipeline.py -v
 
 ## 7. Documentation & Key Deliverables
 
-* **Academic Research Report:** [`report.md`](report.md) — Comprehensive 4-page research report detailing executive takeaways, empirical proofs, and production directives.
+* **Report:** [`report.md`](report.md) — Comprehensive 4-page research report detailing executive takeaways, empirical proofs, and production directives.
 * **Standardized Model Card:** [`MODEL_CARD.md`](MODEL_CARD.md) — Detailed specifications covering intended user (Maya), out-of-scope uses, opacity parameters, quantitative XAI audits, and ethical proxy guidelines.
 * **Integration Tests:** [`tests/test_pipeline.py`](tests/test_pipeline.py) — 5 automated test cases asserting zero split leakage, schema compliance, and artifact persistence.
 
