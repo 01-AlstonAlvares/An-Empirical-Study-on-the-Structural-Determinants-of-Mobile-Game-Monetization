@@ -254,7 +254,7 @@ This project is licensed under the MIT License and uses public domain data licen
 ```bibtex
 @article{xds_mobile_monetization_2026,
   title={From Mechanics to Microtransactions: An Empirical Study on the Structural Determinants of Mobile Game Monetization},
-  author={D.E.C.O.D.E},
+  author={Alston Anthony Alvares and Muhammad Fahad Waqar and Biki Nath Newa and Tommesh Sharad Commar},
   institution={Asian Institute of Technology},
   year={2026}
 }
