@@ -8,7 +8,7 @@
 [![Tests](https://img.shields.io/badge/Tests-5%2F5%20Passing-brightgreen.svg)](tests/test_pipeline.py)
 [![License](https://img.shields.io/badge/License-CC0%20%2F%20MIT-lightgrey.svg)](LICENSE)
 
-An end-to-end Explainable AI (XAI) research project investigating how core mechanical design parameters determine monetization architecture in the mobile gaming industry. Built under rigorous academic standards evaluating explanation **faithfulness**, **stability**, **human decision utility**, **actionability**, and **ethical proxy auditing**.
+An end-to-end Explainable AI (XAI) research project investigating how core mechanical design parameters determine monetization architecture in the mobile gaming industry. Built under rigorous standards evaluating explanation **faithfulness**, **stability**, **human decision utility**, **actionability**, and **ethical proxy auditing**.
 
 ---
 
