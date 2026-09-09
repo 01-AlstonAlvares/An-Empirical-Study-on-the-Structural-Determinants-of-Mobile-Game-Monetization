@@ -54,11 +54,12 @@ The empirical analysis is conducted on store metadata spanning over 17,000 mobil
 
 ### Data Ingestion Setup
 1. Download raw store metadata CSV files from the Kaggle links above.
-2. Place the downloaded files into the repository's raw data directory:
+2. Create a raw data directory in Data Directory.
+3. Place the downloaded files into the repository's raw data directory:
    ```text
-   data/raw/appstore_games.csv
+   Data/raw/appstore_games.csv
    ```
-3. Run `notebooks/01_data_ingestion_and_labeling.ipynb` to parse heterogeneous storage formats into continuous megabytes, filter out 4,071 ambiguous mid-tier entries ($4.99–$19.99), and generate leakage-free stratified splits (`data/processed/train.parquet` and `data/processed/test.parquet`).
+4. Run `notebooks/01_data_ingestion_and_labeling.ipynb` to parse heterogeneous storage formats into continuous megabytes, filter out 4,071 ambiguous mid-tier entries ($4.99–$19.99), and generate leakage-free stratified splits (`data/processed/train.parquet` and `data/processed/test.parquet`).
 
 ---
 
