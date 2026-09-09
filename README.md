@@ -254,7 +254,7 @@ This project is licensed under the MIT License and uses public domain data licen
 ```bibtex
 @article{xds_mobile_monetization_2026,
   title={From Mechanics to Microtransactions: An Empirical Study on the Structural Determinants of Mobile Game Monetization},
-  author={XDS Research Team},
+  author={D.E.C.O.D.E},
   institution={Asian Institute of Technology},
   year={2026}
 }
